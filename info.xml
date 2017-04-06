@@ -1,0 +1,11 @@
+<productinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="optional">
+    <?xml-stylesheet type="text/xsl"href="optional"?>
+     
+    <matlabrelease>R2015b</matlabrelease>
+    <name>Risk-Neutral Density Fitting</name>
+    <type>application</type>
+    <icon></icon>
+    <help_location>\help\html</help_location>
+  
+</productinfo>
