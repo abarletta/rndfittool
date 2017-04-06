@@ -22,14 +22,14 @@ The following MATLAB Toolboxes are required to ensure full compatibility of the 
 There are two options to install the Risk-neutral Density Fitting Tool on your machine.
 
 #### Installation as MATLAB App (recommended)
-- Download the MATLAB App installer from [here](https://github.com/abarletta/rndfittool/raw/master/RND%20Fitting%20Tool.mlappinstall).
+- Download the MATLAB App installer from [here](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall).
 - Double-click on the file to start the installation process.
 - If the double-click does not work you may alternatively open the file by dragging it into the MATLAB command window.
 - After the installation is done the Risk-neutral Density Fitting Tool icon will be listed among your MATLAB Apps.
 - If the installation does not work switch to the next method.
 
 #### Installation as MATLAB App (recommended)
-- Download the zip archive from [here](https://github.com/abarletta/rndfittool/raw/master/RND%20Fitting%20Tool.zip).
+- Download the zip archive from [here](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip).
 - Extract the archive contents into a local folder.
 - Set the folder containing the extracted file as MATLAB current folder or add it to the MATLAB path list. 
 - Type <code>rndfittool</code> to run the tool.
