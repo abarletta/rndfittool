@@ -2,10 +2,12 @@
 <img src="resources/header.png"/>
 </p>
 
+________________________________________________________________________________________________________________________________________
 ## Latest downloads
 
 - [Version 17.04 (MATLAB App installer)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
 - [Version 17.04 (zip archive contaning all codes)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
+________________________________________________________________________________________________________________________________________
 
 ## Getting Started
 
