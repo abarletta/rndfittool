@@ -113,13 +113,13 @@ Input data can also be loaded from external sources and optionally converted int
 
 Option data must have .xls, .xlsx or .csv extension and formatted with all default options (e.g. date format) preset in the OptionMetrics download page. All columns related to mandatory variables must be contained in the dataset. Other field can be appended at any position of the spreadsheet. Options with several maturities and/or observation dates can be collected into the same file, in this case the user will be asked to make a choice.
 
-Website: http://www.optionmetrics.com/
+[Visit OptionMetrics website](http://www.optionmetrics.com/)
 
 #### CBOE
 
 Data may be saved either into default .dat format available at CBOE website or may be pre-converted into .xls/.xlsx format. Data must contain all fields related to mandatory variables. Additional fields can be appended in any position of the dataset. Data for several maturities can be collected into the same file, in this case the user will be asked to choose a maturity when loading data.
 
-Website: http://www.cboe.com/delayedquote/quote-table
+[Visit CBOE website](http://www.cboe.com/delayedquote/quote-table)
 
 ## About the software
 
