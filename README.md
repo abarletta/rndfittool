@@ -1,3 +1,7 @@
+<p align="center">
+<img src="resources/header.png"/>
+</p>
+
 # rndfittool
 Risk-neutral Density Fitting Tool
 
