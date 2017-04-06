@@ -7,8 +7,8 @@ ________________________________________________________________________________
 
 - [Version 17.04 (MATLAB App installer)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
 - [Version 17.04 (zip archive contaning all codes)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
-________________________________________________________________________________________________________________________________________
 
+________________________________________________________________________________________________________________________________________
 ## Getting Started
 
 The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to infer the risk-neutral density (RND), the risk-neutral moments and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
@@ -40,6 +40,7 @@ There are two options to install the Risk-neutral Density Fitting Tool on your m
 - Set the folder containing the extracted file as MATLAB current folder or, alternatively, add it to the MATLAB path list. 
 - Type <code>rndfittool</code> to run the tool.
 
+________________________________________________________________________________________________________________________________________
 ## Quick usage
 
 - Load input data. Native formats from OptionMetrics and CBOE are supported (see next section).
@@ -72,6 +73,7 @@ There are two options to install the Risk-neutral Density Fitting Tool on your m
 <img src="resources/export.PNG" width="300"/>
 </p>
 
+________________________________________________________________________________________________________________________________________
 ## Supported data sources
 
 The standard format for input data is a MAT-file (see [this sample](https://github.com/abarletta/rndfittool/raw/master/sample_option_data.mat)) with the following structure 
@@ -122,6 +124,7 @@ The data may be saved either into default .dat format available at CBOE website 
 
 [Visit CBOE website](http://www.cboe.com/delayedquote/quote-table)
 
+________________________________________________________________________________________________________________________________________
 ## About the software
 
 #### Version
