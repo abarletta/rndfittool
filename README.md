@@ -123,9 +123,9 @@ Website: http://www.cboe.com/delayedquote/quote-table
 
 ## About the software
 
-### Version
+#### Version
 17.04
-### Author
-[**Andrea Barletta**](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)
-### Acknowledgments
-[**Paolo Santucci de Magistris**](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home) provided great contribuition to the project with the implementation of the PCA and with testing.
+#### Author
+[Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)
+#### Acknowledgments
+[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home) provided great contribuition to the project with the implementation of the PCA and with testing.
