@@ -46,7 +46,7 @@ There are two options to install the Risk-neutral Density Fitting Tool on your m
 <img src="resources/find_mean_and_variance.PNG" width="600"/>
 </p>
 
-- Choose order, kernel and method (e.g. PCA, 100%, constrained).
+- Choose order (e.g. 11), kernel (e.g. Gen. Weibull) and method (e.g. PCA, 99%, constrained).
 
 <p align="center">
 <img src="resources/run.PNG" width="600"/>
