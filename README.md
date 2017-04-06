@@ -73,7 +73,7 @@ There are two options to install the Risk-neutral Density Fitting Tool on your m
 
 ## Supported data sources
 
-The standard compatible format for input data is a MAT-file with the following structure (see also <code>sample_option_data.mat</code> in the repository)
+The standard compatible format for input data is a MAT-file (see [this sample](https://github.com/abarletta/rndfittool/raw/master/sample_option_data.mat)) with the following structure 
 
 ```
 Variable name: [Size Type]
