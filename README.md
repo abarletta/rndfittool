@@ -5,8 +5,8 @@
 ________________________________________________________________________________________________________________________________________
 ## Latest downloads
 
-- [Version 17.04 (MATLAB App installer)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
-- [Version 17.04 (zip archive contaning all codes)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
+- [MATLAB App installer v17.04 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
+- [Zip archive containing all codes v17.04](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
 
 ________________________________________________________________________________________________________________________________________
 ## Getting Started
