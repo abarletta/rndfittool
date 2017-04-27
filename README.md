@@ -8,10 +8,8 @@ ________________________________________________________________________________
 - [MATLAB App installer v17.04 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
 - [Zip archive containing all codes v17.04](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
 
-### Changelog
-
-#### [17-04-27]
-- Fixed a bug occurring when plotting greeks
+<b>Changelog</b> <br>
+- [2017-04-27] Fixed a bug occurring when plotting greeks
 
 ________________________________________________________________________________________________________________________________________
 ## Getting Started
