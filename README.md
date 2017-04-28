@@ -123,7 +123,7 @@ The data must have .xls, .xlsx or .csv extension and be formatted with all optio
 
 #### CBOE
 
-The data may be saved either into default .dat format available at CBOE website or be pre-converted into .xls/.xlsx format. The daData must contain all fields related to mandatory variables. The dataset must contain all the information related to the mandatory variables. Possibly unrequired fields can be safely appended at any position of the spreadsheet, if needed. If this is the case the user will be asked to choose a maturity when loading data.
+The data may be saved either into default .dat format available at CBOE website or be pre-converted into .xls/.xlsx format. The dataset must contain all the information related to the mandatory variables. Possibly unrequired fields can be safely appended at any position of the spreadsheet, if needed. If this is the case the user will be asked to choose a maturity when loading data.
 
 [Visit CBOE website](http://www.cboe.com/delayedquote/quote-table)
 
