@@ -9,6 +9,7 @@ ________________________________________________________________________________
 - [Zip archive containing all codes v17.04](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
 
 <b>Changelog</b> <br>
+- [17-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b)
 - [2017-04-27] Fixed a bug occurring when plotting greeks
 
 ________________________________________________________________________________________________________________________________________
