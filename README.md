@@ -132,7 +132,7 @@ ________________________________________________________________________________
 ## About the software
 
 <b>Current version</b> <br>
-17.04<br>
+17.06<br>
 <b>Author</b> <br>
 [Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
 <b>Acknowledgments</b> <br>
