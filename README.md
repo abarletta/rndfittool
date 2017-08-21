@@ -5,8 +5,8 @@
 ________________________________________________________________________________________________________________________________________
 ## Latest downloads
 
-- [MATLAB App installer v17.06 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.mlappinstall)
-- [Zip archive containing all codes v17.06](https://github.com/abarletta/rndfittool/releases/download/v17.04/RND.Fitting.Tool.zip)
+- [MATLAB App installer v17.06 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.06/RND.Fitting.Tool.mlappinstall)
+- [Zip archive containing all codes v17.06](https://github.com/abarletta/rndfittool/releases/download/v17.06/RND.Fitting.Tool.zip)
 
 <b>Changelog</b> <br>
 - [2017-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b)
