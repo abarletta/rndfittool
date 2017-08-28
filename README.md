@@ -5,12 +5,13 @@
 ________________________________________________________________________________________________________________________________________
 ## Latest downloads
 
-- [MATLAB App installer v17.06 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.06/RND.Fitting.Tool.mlappinstall)
-- [Zip archive containing all codes v17.06](https://github.com/abarletta/rndfittool/releases/download/v17.06/RND.Fitting.Tool.zip)
+- [MATLAB App installer v17.08 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.08/RND.Fitting.Tool.v17.08.mlappinstall)
+- [Zip archive containing all codes v17.08](https://github.com/abarletta/rndfittool/releases/download/v17.08/RND.Fitting.Tool.v17.08.zip)
 
 <b>Changelog</b> <br>
-- [2017-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b)
-- [2017-04-27] Fixed a bug occurring when plotting greeks
+- [2017-08-28] Added model-free computation of options sensitivity with respect to variance-swap (VS vega); Fixed compatibility issue occurring on Unix systems.
+- [2017-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b).
+- [2017-04-27] Fixed a bug occurring when plotting greeks.
 
 ________________________________________________________________________________________________________________________________________
 ## Getting Started
