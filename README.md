@@ -8,11 +8,6 @@ ________________________________________________________________________________
 - [MATLAB App installer v17.08 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.08/RND.Fitting.Tool.v17.08.mlappinstall)
 - [Zip archive containing all codes v17.08](https://github.com/abarletta/rndfittool/releases/download/v17.08/RND.Fitting.Tool.v17.08.zip)
 
-<b>Changelog</b> <br>
-- [2017-08-28] Added model-free computation of options sensitivity with respect to variance-swap (VS vega); Fixed compatibility issue occurring on Unix systems.
-- [2017-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b).
-- [2017-04-27] Fixed a bug occurring when plotting greeks.
-
 ________________________________________________________________________________________________________________________________________
 ## About the software
 
@@ -21,7 +16,12 @@ ________________________________________________________________________________
 <b>Author</b> <br>
 [Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
 <b>Acknowledgments</b> <br>
-[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home)
+[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home)<br>
+<b>Changelog</b> <br>
+- [2017-08-28] Added model-free computation of options sensitivity with respect to variance-swap (VS vega); Fixed compatibility issue occurring on Unix systems.
+- [2017-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b).
+- [2017-04-27] Fixed a bug occurring when plotting greeks.
+
 
 ________________________________________________________________________________________________________________________________________
 ## Getting Started
