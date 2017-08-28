@@ -106,7 +106,7 @@ Variable name: [Size Type]
         put_b: [Mx1 double]  -----
 ```
 
-#### Mandatory variables:
+#### Required variables:
 
 - <code>K</code> vector of strike values
 - <code>call</code> vector of observed call prices
