@@ -14,6 +14,16 @@ ________________________________________________________________________________
 - [2017-04-27] Fixed a bug occurring when plotting greeks.
 
 ________________________________________________________________________________________________________________________________________
+## About the software
+
+<b>Current version</b> <br>
+17.08<br>
+<b>Author</b> <br>
+[Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
+<b>Acknowledgments</b> <br>
+[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home)
+
+________________________________________________________________________________________________________________________________________
 ## Getting Started
 
 The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to infer the risk-neutral density (RND), the risk-neutral moments and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
@@ -129,12 +139,3 @@ The data may be saved either into default .dat format available at CBOE website 
 
 [Visit CBOE website](http://www.cboe.com/delayedquote/quote-table)
 
-________________________________________________________________________________________________________________________________________
-## About the software
-
-<b>Current version</b> <br>
-17.06<br>
-<b>Author</b> <br>
-[Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
-<b>Acknowledgments</b> <br>
-[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home) provided great contribuition to the project.
