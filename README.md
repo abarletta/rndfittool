@@ -30,7 +30,7 @@ Please note that this tool is <b>not a standalone software</b>, but it fully rel
 
 ### Prerequisites
 
-This code has been thoroughly tested on MATLAB R2017a and partially on versions R2016b, R2015b, R2014a and R2014b. However, it is  likely that it also runs on older versions of MATLAB. The following MATLAB Toolboxes are required to ensure full compatibility of the code: 
+This code has been tested on MATLAB R2017a, R2016b, R2015b, R2014a and R2014b. However, there is a chance that it also runs on older versions of MATLAB. The following MATLAB Toolboxes are required to ensure full compatibility of the code: 
 
 - Curve Fitting Toolbox
 - Financial Toolbox
