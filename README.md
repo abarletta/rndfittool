@@ -14,7 +14,7 @@ ________________________________________________________________________________
 17.08<br>
 <b>Author</b> <br>
 [Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
-<b>Acknowledgments</b> <br>
+<b>Contributors</b> <br>
 [Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home)<br><br>
 
 <b>Changelog</b> <br>
