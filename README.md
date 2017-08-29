@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 ## Getting Started
 
-The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to infer the risk-neutral density (RND), the risk-neutral moments and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
+The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows for inferring the risk-neutral density (RND) and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
 Please note that this tool is <b>not a standalone software</b>, but it fully relies on the MATLAB suite.
 
 ### Prerequisites
