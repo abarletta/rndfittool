@@ -8,6 +8,15 @@ ________________________________________________________________________________
 - [MATLAB App installer v17.10 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.mlappinstall)
 - [Zip archive containing all codes v17.10](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.zip)
 
+________________________________________________________________________________________________________________________________________
+
+<b>Current version</b> <br>
+17.10<br>
+<b>Author</b> <br>
+[Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
+<b>Contributors</b> <br>
+[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home)<br><br>
+
 <b>Changelog</b> <br>
 - [2017-11-15] Improved numerical stability of the greeks computation algorithm; Fixed small bugs affecting plotting of greeks.
 - [2017-08-28] Added model-free computation of options sensitivity with respect to variance-swap (VS vega); Fixed compatibility issue occurring on Unix systems.
@@ -17,12 +26,12 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 ## Getting Started
 
-The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows the user to infer the risk-neutral density (RND), the risk-neutral moments and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
+The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows for inferring the risk-neutral density (RND) and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
 Please note that this tool is <b>not a standalone software</b>, but it fully relies on the MATLAB suite.
 
 ### Prerequisites
 
-This code has been thoroughly tested on MATLAB R2015b and partially on versions R2017a, R2016b, R2014a and R2014b. However, it is very likely that it also runs on other versions of MATLAB. The following MATLAB Toolboxes are required to ensure full compatibility of the code: 
+This code has been tested on MATLAB R2017a, R2016b, R2015b, R2014a and R2014b. However, there is a chance that it also runs on older versions of MATLAB. The following MATLAB Toolboxes are required to ensure full compatibility of the code: 
 
 - Curve Fitting Toolbox
 - Financial Toolbox
@@ -98,7 +107,7 @@ Variable name: [Size Type]
         put_b: [Mx1 double]  -----
 ```
 
-#### Mandatory variables:
+#### Required variables:
 
 - <code>K</code> vector of strike values
 - <code>call</code> vector of observed call prices
@@ -129,13 +138,3 @@ The data must have .xls, .xlsx or .csv extension and be formatted with all optio
 The data may be saved either into default .dat format available at CBOE website or be pre-converted into .xls/.xlsx format. The dataset must contain all the information related to the mandatory variables. Possibly unrequired fields can be safely appended at any position of the spreadsheet, if needed. If this is the case the user will be asked to choose a maturity when loading data.
 
 [Visit CBOE website](http://www.cboe.com/delayedquote/quote-table)
-
-________________________________________________________________________________________________________________________________________
-## About the software
-
-<b>Current version</b> <br>
-17.10<br>
-<b>Author</b> <br>
-[Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
-<b>Acknowledgments</b> <br>
-[Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home) provided great contribuition to the project.
