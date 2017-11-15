@@ -5,19 +5,20 @@
 ________________________________________________________________________________________________________________________________________
 ## Latest downloads
 
-- [MATLAB App installer v17.08 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.08/RND.Fitting.Tool.v17.08.mlappinstall)
-- [Zip archive containing all codes v17.08](https://github.com/abarletta/rndfittool/releases/download/v17.08/RND.Fitting.Tool.v17.08.zip)
+- [MATLAB App installer v17.10 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.mlappinstall)
+- [Zip archive containing all codes v17.10](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.zip)
 
 ________________________________________________________________________________________________________________________________________
 
 <b>Current version</b> <br>
-17.08<br>
+17.10<br>
 <b>Author</b> <br>
 [Andrea Barletta](http://pure.au.dk/portal/en/persons/id(e161f76b-35b6-4903-b768-e8b172cbede5).html)<br>
 <b>Contributors</b> <br>
 [Paolo Santucci de Magistris](https://sites.google.com/universitadipavia.it/paolosantuccidemagistris/home)<br><br>
 
 <b>Changelog</b> <br>
+- [2017-11-15] Improved numerical stability of the greeks computation algorithm; Fixed small bugs affecting plotting of greeks.
 - [2017-08-28] Added model-free computation of options sensitivity with respect to variance-swap (VS vega); Fixed compatibility issue occurring on Unix systems.
 - [2017-06-26] Fixed a bug producing bad plotting in Matlab most recent versions (>R2015b).
 - [2017-04-27] Fixed a bug occurring when plotting greeks.
