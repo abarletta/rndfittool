@@ -93,18 +93,18 @@ ________________________________________________________________________________
 
 The standard format for input data is a MAT-file (see [this sample](https://github.com/abarletta/rndfittool/raw/master/sample_option_data.mat)) with the following structure 
 
-```
+```matlab
 Variable name: [Size Type]
-            K: [Mx1 double]  -----
-         call: [Mx1 double]       | Mandatory
-          put: [Mx1 double]       |
-            m: [2x1 double]  -----
-      obsDate: [1x6 int]     -----
-      expDate: [1x6 int]          |
-       call_a: [Mx1 double]       | Optional
-       call_b: [Mx1 double]       |
-        put_a: [Mx1 double]       |
-        put_b: [Mx1 double]  -----
+            K: [Mx1 double]  %%%%%%
+         call: [Mx1 double]       % Mandatory
+          put: [Mx1 double]       %
+            m: [2x1 double]  %%%%%%
+      obsDate: [1x6 int]     %%%%%%
+      expDate: [1x6 int]          %
+       call_a: [Mx1 double]       % Optional
+       call_b: [Mx1 double]       %
+        put_a: [Mx1 double]       %
+        put_b: [Mx1 double]  %%%%%%
 ```
 
 #### Required variables:
