@@ -1,8 +1,5 @@
-<p align="center">
-<img src="resources/header.png"/>
-</p>
+<br>
 
-***
 ## Latest downloads
 
 [MATLAB App installer v17.10 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.10/RND.Fitting.Tool.v17.10.mlappinstall)<br>
