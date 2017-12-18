@@ -15,8 +15,7 @@
 ***
 ## Getting Started
 
-The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows for inferring the risk-neutral density (RND) and the greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a>.
-Please note that this tool is <b>not a standalone software</b>, but it fully relies on the MATLAB suite.
+The _Risk-neutral Density Fitting Tool_ tool (rndfittool) allows for inferring the risk-neutral density (RND) and the Greeks embedded in a set of observed call and put option prices. The underlying  methodology is fully non-structural, meaning that it does not rely on any parametric model, and it consists in approximating the RND through orthogonal polynomial expansions. A detailed description of this methodology is provided in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943964">this paper</a> (RND and moments) and in <a href="https://ssrn.com/abstract=3086538">this paper</a> (Greeks). Please note that this tool is <b>not a standalone software</b>, but it fully relies on the MATLAB suite.
 
 ### Prerequisites
 
@@ -65,7 +64,7 @@ There are two options to install the Risk-neutral Density Fitting Tool on your m
 <img src="resources/run.PNG" width="600"/>
 </p>
 
-- Press <code>Find greeks</code> to compute the greeks (still without using a model).
+- Press <code>Find greeks</code> to compute the Greeks (still model-free).
 
 <p align="center">
 <img src="resources/greeks.PNG" width="600"/>
