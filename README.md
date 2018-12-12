@@ -2,11 +2,11 @@
 
 ## Latest downloads
 
-[MATLAB App installer v17.12 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v17.12/RND.Fitting.Tool.v17.12.mlappinstall)<br>
-[Zip archive containing all codes v17.12](https://github.com/abarletta/rndfittool/releases/download/v17.12/RND.Fitting.Tool.v17.12.zip)
+[MATLAB App installer v18.12 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v18.12/RND.Fitting.Tool.v18.12.mlappinstall)<br>
+[Zip archive containing all codes v18.12](https://github.com/abarletta/rndfittool/releases/download/v17.12/RND.Fitting.Tool.v18.12.zip)
 <br>
 #### Changelog
-
+- [2018-12-12] Added support to CBOE new data format; Changed smoothing algorithm; Changed algorithm to fix slope/curvature; Optimized the implementation of positive mass constraints; Improved the iterative algorithm; Added information on PCA constrained optimization in the log window; Code polishing and other minor enhancements; Fixed a bug occurring when the string "rndfittool" appears in the name of the folder containing the main function; Fixed minor bugs in data exporting.
 - [2017-18-12] Fixed compatibility on Unix systems; Addressed compatibility on Mac systems (needs testing).
 - [2017-11-15] Improved numerical stability of the greeks computation algorithm; Fixed small bugs affecting plotting of greeks.
 - [2017-08-28] Added model-free computation of options sensitivity with respect to variance-swap (VS vega); Fixed compatibility issue occurring on Unix systems.
@@ -125,5 +125,7 @@ The data must have .xls, .xlsx or .csv extension and be formatted with all optio
 #### CBOE
 
 The data may be saved either into default .dat format available at CBOE website or be pre-converted into .xls/.xlsx format. The dataset must contain all the information related to the mandatory variables. Possibly unrequired fields can be safely appended at any position of the spreadsheet, if needed. If this is the case the user will be asked to choose a maturity when loading data.
+
+Note: The CBOE format changed on 26/11/2018. The new format is supported only in the latest version of rndfittool.
 
 [Visit CBOE website](http://www.cboe.com/delayedquote/quote-table)
