@@ -3,7 +3,7 @@
 ## Latest downloads
 
 [MATLAB App installer v18.12 (recommended)](https://github.com/abarletta/rndfittool/releases/download/v18.12/RND.Fitting.Tool.v18.12.mlappinstall)<br>
-[Zip archive containing all codes v18.12](https://github.com/abarletta/rndfittool/releases/download/v17.12/RND.Fitting.Tool.v18.12.zip)
+[Zip archive containing all codes v18.12](https://github.com/abarletta/rndfittool/releases/download/v18.12/RND.Fitting.Tool.v18.12.zip)
 <br>
 #### Changelog
 - [2018-12-12] Added support to CBOE new data format; Changed smoothing algorithm; Changed algorithm to fix slope/curvature; Optimized the implementation of positive mass constraints; Improved the iterative algorithm; Added information on PCA constrained optimization in the log window; Code polishing and other minor enhancements; Fixed a bug occurring when the string "rndfittool" appears in the name of the folder containing the main function; Fixed minor bugs in data exporting.
